@@ -79,6 +79,6 @@ I am a tech enthusiast and developer who loves creating solutions for real-world
 
 <div align="center">
 <h2 align="center">Visitor Count</h2>  
-<p><img align="center" src="https://profile-counter.glitch.me/{yourusername}/count.svg" /></p> 
+<p><img align="center" src="https://profile-counter.glitch.me/{deshanlankal}/count.svg" /></p> 
 <br>
 </div>
