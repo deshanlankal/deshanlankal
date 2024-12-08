@@ -36,15 +36,4 @@ I am a passionate tech enthusiast who enjoys solving problems through innovative
 
 ---
 
-<h2> 🌐 Connect with Me </h2>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deshanlankal) [![Portfolio](https://img.shields.io/badge/Portfolio-%231977D2.svg?style=for-the-badge&logo=github-pages&logoColor=white)](https://your-portfolio.com)
-
 ---
-
-<h2> 📊 GitHub Stats </h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deshanlankal&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deshanlankal&layout=compact&theme=radical" alt="Top Languages" />
-</p>
