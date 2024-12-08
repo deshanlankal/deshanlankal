@@ -62,20 +62,4 @@ I am a passionate tech enthusiast who enjoys solving problems through innovative
 
 ---
 
-<h2> 🌐 Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 
-<a href="https://www.linkedin.com/in/deshanlankal/"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linkedin.svg" />
-</a> 
-<a href="https://www.instagram.com/deshanlanka.l"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" />
-</a>
-<a href="https://x.com/deshanlanka_l"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" />
-</a>
-
----
-
-<h2> 😄 A Bit of Humor <img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="40px"> </h2>
-
-<img src="https://media.giphy.com/media/3o7TKyEdt2XKkzR9Ly/giphy.gif" alt="Funny GIF" width="400px" align="center" />
