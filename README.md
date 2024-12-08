@@ -1,4 +1,4 @@
-<h1 align="center"> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> </h1>
+<h1 align="center"> Hello < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> </h1>
 
 <img width="15%" align="right" alt="Code GIF" src="https://github.com/deshanlankal/deshanlankal/blob/main/daftpunktocat-guy.gif" />
 
