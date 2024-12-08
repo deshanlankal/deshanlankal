@@ -1,6 +1,6 @@
 <h1 align="center"> Hello Fellow < Developers/ >! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> </h1>
 
-<img width="15%" align="right" alt="Code GIF" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/749044136589393960.gif" />
+<img width="15%" align="right" alt="Code GIF" src="https://github.com/deshanlankal/deshanlankal/blob/main/daftpunktocat-guy.gif" />
 
 <div size='1px'>  
 Hi! My name is [Your Name]. Thank you for stopping by my GitHub Profile! :smile:  
@@ -11,7 +11,7 @@ I am a tech enthusiast and developer who loves creating solutions for real-world
 
 <h2> 🧑‍💻 About Me </h2>
 
-<img width="55%" align="right" alt="Coding Banner" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="55%" align="right" alt="Coding Banner" src="https://github.com/deshanlankal/deshanlankal/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 - 🔭 **Currently working on**:  
   - A **movie recommendation system** with real-time API integration and a web interface.  
@@ -75,10 +75,3 @@ I am a tech enthusiast and developer who loves creating solutions for real-world
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 
----
-
-<div align="center">
-<h2 align="center">Visitor Count</h2>  
-<p><img align="center" src="https://profile-counter.glitch.me/{deshanlankal}/count.svg" /></p> 
-<br>
-</div>
