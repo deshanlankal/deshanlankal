@@ -3,8 +3,8 @@
 <img width="15%" align="right" alt="Code GIF" src="https://github.com/deshanlankal/deshanlankal/blob/main/daftpunktocat-guy.gif" />
 
 <div size='1px'>  
-Hi! My name is [Your Name]. Thank you for stopping by my GitHub Profile! :smile:  
-I am a tech enthusiast and developer who loves creating solutions for real-world challenges.  
+Hi! My name is Deshan Lanka. Thank you for stopping by my GitHub Profile! :smile:  
+I am a passionate tech enthusiast who enjoys solving problems through innovative software and hardware solutions.  
 </div>
 
 ---
@@ -14,64 +14,69 @@ I am a tech enthusiast and developer who loves creating solutions for real-world
 <img width="55%" align="right" alt="Coding Banner" src="https://github.com/deshanlankal/deshanlankal/blob/main/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" />
 
 - 🔭 **Currently working on**:  
-  - A **movie recommendation system** with real-time API integration and a web interface.  
-  - An **e-commerce website** for **Alpha Network LK** using the MERN stack.  
-  - An **RGB LED light system** with smart features like music sync and wireless control.  
+  - Building smart and efficient **IoT-based systems**.  
+  - Designing robust **web applications** with modern frameworks.  
+  - Exploring **machine learning** for practical applications.
 
 - 🌱 **Currently learning**:  
   - Advanced **machine learning** algorithms.  
-  - Building **mobile apps** for Arduino-based hardware control.  
+  - Creating seamless **mobile apps** to interact with hardware.
 
 - 💬 **Talk to me about**:  
-  - Web development (React, MERN stack, Laravel).  
-  - SaaS applications for CMS management.  
-  - Cool hardware-software integrations (like IoT and microcontrollers).  
-
-- 📫 **Contact**: Drop me an email at `your.email@example.com`  
+  - End-to-end software development.  
+  - Integrating hardware with software for innovative solutions.  
+  - Best practices for SaaS application development.
 
 ---
 
 <h2> ⚡ Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 
-<a href="https://github.com/yourusername?tab=repositories&q=&type=&language=react&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg">
-</a>
-<a href="https://github.com/yourusername?tab=repositories&q=&type=&language=javascript&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg">
-</a>
-<a href="https://github.com/yourusername?tab=repositories&q=&type=&language=python&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
-</a>
-<a href="https://github.com/yourusername?tab=repositories&q=&type=&language=arduino&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/arduino.svg">
-</a>
-<a href="https://github.com/yourusername?tab=repositories&q=&type=&language=github&sort="> 
-  <img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
-</a>
+<h3>Languages</h3>
+<ul>
+  <li>Java</li>
+  <li>Python</li>
+  <li>PHP</li>
+  <li>C</li>
+  <li>C++</li>
+  <li>.NET</li>
+  <li>JavaScript</li>
+  <li>SQL</li>
+  <li>PL/SQL</li>
+</ul>
+
+<h3>Technologies/Frameworks</h3>
+<ul>
+  <li>React</li>
+  <li>Vue.js</li>
+  <li>Next.js</li>
+  <li>Node.js</li>
+  <li>Git Version Control</li>
+  <li>Unity</li>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>Oracle DB</li>
+  <li>Laravel - PHP</li>
+  <li>Arduino IDE</li>
+  <li>R Studio</li>
+  <li>Weka</li>
+</ul>
 
 ---
 
 <h2> 🌐 Connect with Me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100px"> </h2>
 
-<a href="https://linkedin.com/in/yourprofile"> 
+<a href="https://www.linkedin.com/in/deshanlankal/"> 
   <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linkedin.svg" />
 </a> 
-<a href="https://discordapp.com/users/yourdiscordid"> 
-  <img width="32px" align="center" src="https://github.com/avinIndrasoma/avinIndrasoma/blob/main/Discord-Logo%20(1).png" />
+<a href="https://www.instagram.com/deshanlanka.l"> 
+  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg" />
 </a>
-<a href="mailto:your.email@example.com"> 
-  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/gmail.svg" />
+<a href="https://x.com/deshanlanka_l"> 
+  <img width="32px" align="center" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg" />
 </a>
-
----
-
-<h2> 🎵 What I'm Listening to Right Now </h2>
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yourspotifyid&cover_image=true&theme=default)](https://open.spotify.com/user/yourspotifyid)
 
 ---
 
 <h2> 😄 A Bit of Humor <img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="40px"> </h2>
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
-
+<img src="https://media.giphy.com/media/3o7TKyEdt2XKkzR9Ly/giphy.gif" alt="Funny GIF" width="400px" align="center" />
