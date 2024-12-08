@@ -32,34 +32,33 @@ I am a passionate tech enthusiast who enjoys solving problems through innovative
 <h2> ⚡ Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> </h2>
 
 <h3>Languages</h3>
-<ul>
-  <li>Java</li>
-  <li>Python</li>
-  <li>PHP</li>
-  <li>C</li>
-  <li>C++</li>
-  <li>.NET</li>
-  <li>JavaScript</li>
-  <li>SQL</li>
-  <li>PL/SQL</li>
-</ul>
+<p>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java" title="Java" width="40px"/>
+  <img src="https://img.icons8.com/color/48/python.png" alt="Python" title="Python" width="40px"/>
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP" title="PHP" width="40px"/>
+  <img src="https://img.icons8.com/color/48/c-programming.png" alt="C" title="C" width="40px"/>
+  <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" alt="C++" title="C++" width="40px"/>
+  <img src="https://img.icons8.com/color/48/net.png" alt=".NET" title=".NET" width="40px"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript" title="JavaScript" width="40px"/>
+  <img src="https://img.icons8.com/color/48/sql.png" alt="SQL" title="SQL" width="40px"/>
+  <img src="https://img.icons8.com/color/48/plsql.png" alt="PL/SQL" title="PL/SQL" width="40px"/>
+</p>
 
 <h3>Technologies/Frameworks</h3>
-<ul>
-  <li>React</li>
-  <li>Vue.js</li>
-  <li>Next.js</li>
-  <li>Node.js</li>
-  <li>Git Version Control</li>
-  <li>Unity</li>
-  <li>Machine Learning</li>
-  <li>Deep Learning</li>
-  <li>Oracle DB</li>
-  <li>Laravel - PHP</li>
-  <li>Arduino IDE</li>
-  <li>R Studio</li>
-  <li>Weka</li>
-</ul>
+<p>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React" title="React" width="40px"/>
+  <img src="https://img.icons8.com/color/48/vue-js.png" alt="Vue.js" title="Vue.js" width="40px"/>
+  <img src="https://img.icons8.com/color/48/nextjs.png" alt="Next.js" title="Next.js" width="40px"/>
+  <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js" title="Node.js" width="40px"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="Git" title="Git" width="40px"/>
+  <img src="https://img.icons8.com/color/48/unity.png" alt="Unity" title="Unity" width="40px"/>
+  <img src="https://img.icons8.com/color/48/machine-learning.png" alt="Machine Learning" title="Machine Learning" width="40px"/>
+  <img src="https://img.icons8.com/color/48/oracle.png" alt="Oracle DB" title="Oracle DB" width="40px"/>
+  <img src="https://img.icons8.com/color/48/laravel.png" alt="Laravel" title="Laravel" width="40px"/>
+  <img src="https://img.icons8.com/color/48/arduino.png" alt="Arduino IDE" title="Arduino IDE" width="40px"/>
+  <img src="https://img.icons8.com/color/48/r-project.png" alt="R Studio" title="R Studio" width="40px"/>
+  <img src="https://img.icons8.com/color/48/decision-tree.png" alt="Weka" title="Weka" width="40px"/>
+</p>
 
 ---
 
