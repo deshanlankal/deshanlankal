@@ -3,7 +3,7 @@
 <img width="15%" align="right" alt="Code GIF" src="https://github.com/deshanlankal/deshanlankal/blob/main/daftpunktocat-guy.gif" />
 
 <div size='1px'>  
-Hi! My name is <b>Deshan Lanka<b/>.  
+Hi! My name is <b>Deshan Lanka</b>b>.  
 Thank you for stopping by my GitHub Profile! 😊  
 I am a passionate tech enthusiast who enjoys solving problems through innovative software and hardware solutions.  
 </div>
